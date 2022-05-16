@@ -4,8 +4,6 @@
 # File Name             : main.py                 #
 # ----------------------------------------------- #
 
-import time
-
 from flask import Flask, request
 
 import config.py
