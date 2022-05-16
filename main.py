@@ -4,7 +4,6 @@
 # File Name             : main.py                 #
 # ----------------------------------------------- #
 
-import json
 import time
 
 from flask import Flask, request
